@@ -4,14 +4,6 @@ This is a Grails plugin for the [3.2 backport](https://github.com/northstratinc/
 
 ## Usage
 
-Until the backport is available in the Maven Central Repository, you will have to clone its repo and build and install locally
-
-```bash
-git clone git@github.com:northstratinc/springsecurity3-websockets.git
-cd springsecurity3-websockets
-mvn clean install
-```
-
 Until this plugin is available in the Grails Plugin repository, you will also have to clone this repo and maven-install the plugin
 
 ```bash
